@@ -1,0 +1,1 @@
+love.graphics.newParticleSystem(texture, particles) takes in a particular texture and max no of particles we can emit and creates a sysytem we can emit, update and render.
